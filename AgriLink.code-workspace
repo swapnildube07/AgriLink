@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "AgriLink"
+		},
+		{
+			"name": "backend_api",
+			"path": "AgriLink/backend_api"
+		}
+	],
+	"settings": {}
+}
